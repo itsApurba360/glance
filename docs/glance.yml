@@ -5,8 +5,8 @@ pages:
     columns:
       - size: small
         widgets:
-          - type: calendar
-            first-day-of-week: monday
+          # - type: calendar
+          #   first-day-of-week: monday
 
           - type: rss
             limit: 10
